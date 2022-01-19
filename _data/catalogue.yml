@@ -130,28 +130,367 @@
       credit: 
 - id: c
   title: Moleculen en Atomen
-  description: 
+  description: |
+    ## Wat zijn atomen?
+    Dit is de wereld van het allerkleinste, onvoorstelbaar klein en onvoorstelbaar leeg tegelijkertijd. 
+    Het atoom bestaat uit een kern en om deze kern cirkelen de electronen. 
+    Een molecuul bestaat uit een samenstel van atomen; in het kristal zijn die moleculen weer op regelmatige wijze gerangschikt. 
+    In vloeistoffen bewegen zij zich vrijer en in gassen is elke orde of regelmaat verbroken, maar in het molecuul behouden de atomen ook dan hun vaste plaats.
   parts: 
+    - id: c-0
+      title: Uranium-atoom
+      description:
+      credit: bruikleen: United States Information Service, 's-Gravenhage)
+    - id: c-1
+      title: Atoom model 7 m diameter
+      description: Zo leeg is een atoom!
+      credit:
+    - id: c-2
+      title: Sneeuwkristal
+      description: |
+        Het sneeuwkristal is een fraai voorbeeld van de duizenden kristallen welke in de natuur voorkomen. 
+        De wonderlijke vormen van kristallen hebben de mens steeds weer geboeid. 
+        Wij weten thans dat deze uiterlijke verschijningsvormen het gevolg zijn van de strikt regelmatige rangschikking van de atomen in de moleculen en van de moleculen in de kristalroosters.
+      credit:
+    - id: c-3
+      title: Vergelijking afmetingen kristal, molecuul, atoom en kern
+      description: |
+        Een nietig sneeuwvlokje is ontzaglijk groot vergeleken bij zijn bouwstenen: moleculen, atomen, electronen en atoomkernen.
+        Maken wij het 3 x zo groot als de afstand aarde-maan ........
+        dan vinden wij in een stuk zo groot als de amsterdamse binnenstad enige tientallen "watermoleculen" .......... , één zuurstofatoom in zo'n molecuul is dan zo groot als het Paleis op de Dam ........ en zijn kern als één enkel vliegje in het midden daarvan.
+      credit:
+    - id: c-4
+      title: Kristal rooster modellen
+      description: |
+        Met behulp van röntgenstralen is het gelukt de rangschikking van moleculen en atomen in het kristalrooster te ontwarren.
+      credit: bruikleen: Laboratorium voor Kristalchemie, Rijksuniversiteit Utrecht
+    - id: c-5
+      title: Kristalvormen in de natuur
+      description:
+      credit: bruikleen: E. Th. Erb, Blaricum
+    - id: c-6
+      title: Afbuiging van röntgenstralen
+      description: Nabootsing met lichtstralen van de afbuiging van röntgenstralen door kristallen.
+      credit: bruikleen: Laboratorium voor Physische Scheikunde, Technische Hogeschool Delft
+    - id: c-7
+      title: Model van een gas
+      description: Mechanisch model van een gas in een cilinder.
+      credit: bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: c-8
+      title: Diffusie in een vloeistof
+      description: 
+      credit: bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: c-9
+      title: Destillatie van een mengsel van drie vloeistoffen
+      description: 
+      credit: bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: c-10
+      title: Ontleding van water in zijn bestanddelen door een electrische stroom
+      description:
+      credit: bruikleen: Vossius Gymnasium, Amsterdam
+    - id: c-11
+      title: Afbuiging van electronen in een magnetisch veld
+      description:
+      credit: bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: c-12
+      title: Een zuurstof atoom
+      description: |
+        U ziet de kleine kern, U ziet de rondom deze atoomkern cirkelende electronen. 
+        Elk atoom lijkt op een klein zonnestelsel: een zon (de kern) met rondwentelende planeten (de electronen).
+      credit: bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: c-13
+      title: IJs, water en stoom':'' vast, vloeibaar en gasvormig.
+      description: |
+        Dit zijn drie "toestanden" waarin wij water kennen. 
+        In één of meer van deze "aggregatietoestanden" kennen wij alle stoffen.
+        
+        Vaste stof: Alle moleculen (èn hun atomen) zijn aan vaste plaatsen gebonden, gerangschikt in regelmatige \"patronen\", die \"kristalroosters\" heten.
+        
+        Vloeistof: De moleculen hebben méér vrijheid: zij kunnen zich beperkt bewegen, maar in het zeer kleine blijft enige regelmaat in het \"patroon\" behouden. De atomen blij,en vast en ordelijk gerangschikt binnen elk molecuul.
+        
+        Gas: De moleculen bewegen en botsen zonder orde of regelmaat. 
+        Alleen de atomen van elk molecuul blijven hun eigen vaste, onderlinge plaatsen behouden.
+      credit:
+    - id: c-14
+      title:  Kern, atoom, molecuul
+      description: |
+        Kern: Het uiterst kleine "middelpunt" van het atoom, opgebouwd uit protonen en neutronen. 
+        Elk element heeft een vast aantal protonen in zijn atoomkern.
+        
+        Atoom: Het "zonnestelsel" van kern en cirkelende electronen. 
+        Het aantal negatieve electronen óm de kern is gelijk aan het aantal positieve protonen in de kern. 
+        Het atoom is dus electrisch neutraal.
+
+        Molecuul: Een ordelijk, vast verband van meerdere atomen.
+        Elke stof die wij kennen heeft zijn eigen typische moleculen, alle gelijk opgebouwd. 
+        Er bestaan talloze stoffen op aarde en dus ook talloze verschillend opgebouwde moleculen.
+      credit:
+    - id:
+      title:
+      description:
+      credit:
 - id: d
   title: De Atoomkern, Isotopen
-  description: 
+  description: |
+    ## De atoomkern: telraam van de natuur
+    Met de gebrekkige hulpmiddelen, waarover de mens eeuwenlang slechts beschikte, is hij er toch in geslaagd enkele eigenschappen van het molecuul en het atoom te ontdekken. 
+    Maar pas de laatste tientallen jaren slaagde hij er in door te dringen tot de geheimen van de kern, die uit twee elementaire bouwstoffen bestaat: protonen en neutronen. 
+    Hun aantal bepaalt de eigenschappen van de stof en de plaats van deze in de systematische rangschikking der elementen: het periodiek systeem. 
+    Ook ontdekte hij, dat sommige elementen weliswaar dezelfde chemische eigenschappen hadden, doch niet hetzelfde gewicht van de kern: de isotopen.
   parts: 
+    - id: d-1
+      title: Protonen (positief geladen); Neutronen (niet geladen)
+      description:
+      credit:
+    - id: d-2/3
+      title: Periodiek systeem der elementen
+      description: |
+        Een geordende opstelling van de 101 elementen, die de bouwstenen zijn waaruit alle stoffen in het heelal zijn samengesteld.
+
+        Groen: de 90 elementen, die in de natuur voorkomen.
+        
+        Blauw: de 11 elementen, die de mens heeft weten te vervaardigen
+        
+        Isotopen
+        Elk element heeft zijn eigen vaste aantal protonen in de kern, maar het aantal neutronen varieert.
+        Deze "variaties" van de elementen noemt men isotopen.
+        Chemisch gedragen zij zich gelijk, maar de eigenschappen van de kern kunnen sterk verschillen.
+      credit:
+    - id: d-4
+      title: Fotowand \"Het Heelal\"
+      description: 
+      credit: bruikleen: United States Information Service, 's-Gravenhage
+    - id: d-5/6
+      title: 
+      description: |
+        lsotopen,variaties van een element, lijken "sprekend" op elkaar, maar:
+        - zij zijn niet even zwaar: zwaar water - gewoon water
+        - soms zijn zij niet stabiel: stabiel rubidium - radioactief rubidium.
+
+        Onstabiele isotopen vallen uiteen en zenden daarbij straling u
+      credit: bruikleen: weegschaal; Beun en De Ronde, Amsterdam telapparatuur; N.V. Philips, Eindhoven
+    - id: d-7
+      title: Scheiding van isotopen
+      description: |
+        De zo op elkaar gelijkende isotopen verschillen in gewicht, daardoor kan men ze scheiden:
+        - electrisch in het \"Calutron\"
+        - in de diffusie-fabriek door middel van poreuze wanden
+      credit: |
+        - bruikleen: Koninklijke/Shell - Laboratorium, Amsterdam
+        - foto: U.S. Atomie Energy Commission
+    - id: d-8
+      title: Samenstelling aardkorst
+      description: |
+        Sommige elementen komen in enorme hoeveelheden voor; andere zijn uiterst zeldzaam. 
+        U ziet hier de hoeveelheden van een aantal elementen, plastisch vergeleken met alle andere samen.
+      credit:
 - id: e
   title: Historie der wetenschap
-  description: 
+  description: |
+    ## Eeuwige raadselen
+    Zolang de mens op aarde leeft, heeft hij getracht de geheimen der natuur te ontrafelen: de boeiende wereld van zon en maan, sterren en planeten probeerde hij te doorgronden, maar ook trachtte hij een antwoord te vinden op de vraag waaruit de stof was opgebouwd. 
+    Een lange, moeilijke weg van vallen en opstaan, want vaak was hij op de verkeerde weg en zag hij zich later genoodzaakt stellingen, die schijnbaar onomstotelijk vast stonden, te herzien. 
+    Maar hij vermeerderde steeds zijn kennis en stap voor stap drong hij dieper binnen-in de wonderlijke wereld van de natuur.
   parts: 
+    - id: e-1
+      title:
+      description: |
+        Demokritus, een Griek, dacht ±400 vóór Christus over het wezen van de natuur. 
+        Zijn overpeinzingen leidden hem tot de gedachte, dat alle stof uiteindelijk uit ondeelbare deeltjes moet zijn samengesteld, die hij a-tomos (on-deelbaar) noemde.
+      credit:
+    - id: e-2
+      title: Alchemist
+      description: |
+        Zoekers en zwoegers uit vervlogen eeuwen, vaak bezeten door de droom van de "steen der wijzen", die o.a. goud zou maken uit onedel metaal. 
+        Hun droom was toen niet te verwezenlijken, maar de stoffen en werkwijzen die zij al vorsend ontdekten, werden de inleiding tot de moderne chemische wetenschap.
+      credit:
+    - id: e-3
+      title: 
+      description: |
+        Met eerbied gedenken wij
+        Madama Curie en Pierre Curie,
+        die in een bescheiden laboratorium een groots wetenschappelijk werk volbrachten.
+        In Parijs, omtrent het begin van deze eeuw, bereidden zij in jaren moeizame arbeid, uit tonnen en tonnen erts, voor het eerst een speldeknop van een chemische substantie, welke een nog onbekend element bevatte: Radium.
+      credit: bruikleen: Le Laboratoire Curie de l'lnstitut de Radium, Parijs
+    - id: e-4
+      title: Werktafel van Otto Hahn
+      description: |
+        In november 1938 werd aan deze tafel een historische ontdekking gedaan: voor het eerst in de geschiedenis werd de splijting van een atoomkern (een uraniumkern) door een bombardement van neutronen waargenomen.
+      credit: bruikleen: Max Plancl< lnstitut, Berlijn
+    - id: e-5
+      title: Albert Einstein
+      description: |
+        Bronzen plaquette door Mevr. B. Sturm-Van den Bergh, Bentveld.
+        Beeltenis van de man, die de veelheid der natuurverschijnselen in enkele wiskundige formules samenvatte en die daaruit afleidde, welke enorme energie in de atoomkern sluimert.
+      credit: bruikleen: Mevrouw_B. Sturm-van den Bergh
 - id: f
   title: Natuurlijke en kunstmatige radioactiviteit
-  description: 
+  description: |
+    ## Radioactiviteit
+    Het element radium, de grote ontdekking van het echtpaar Curie, bleek een wonderlijke en tot dusver onbekende eigenschap te hebben: het zendt straling uit, terwijl de kern van structuur verandert (radioactiviteit). 
+    Deze ontdekking leidde tot nieuwe experimenten: de mens trachtte deze natuurlijke straling na te bootsen door zelf de kern van een atoom te "bombarderen" met kleine atoomdeeltjes. 
+    Het zijn deze proefnemingen, die de deur hebben geopend voor een geheel nieuwe tak van wetenschap, de kernphysica.
   parts: 
+    - id: f-1
+      title: Radium-vervalreeks
+      description: |
+        - alpha-deeltjes (heliumkernen)
+        - beta-deeltjes (electronen)
+        Elk radioactief atoom verliest één of meermalen een fragmentje  van zijn kern en verandert daarbij telkens in een ander element, tot de kern uiteindelijk stabiel wordt. De reeks van "tussentrappen", die het al veranderend doorloopt, noemt men een verval reeks.
+      credit:
+    - id: f-2
+      title: Een \"toevallige\" kernreactie
+      description: |
+        Alpha-deeltjes botsen op stikstofkernen; er wordt dan \"zwaar\" zuurstof gevormd en een proton komt vrij.
+      credit:
+    - id: f-3
+      title: Eem \"doelbewuste\" kernreactie
+      description: |
+        Een kunstmatig versneld proton treft een lithiumkern, waarbij beryllium en een neutron gevormd worden.
+      credit:
 - id: g
   title: "\"Kolossale\" hulpmiddelen"
-  description: 
+  description: |
+    ## Kolossale hulpmiddelen
+    De krachten, die de atoomkern bij elkaar houden, zijn reusachtig groot. 
+    Wil de mens die kern splijten en de vrijkomende energie aan zijn wil onderwerpen, dan moet hij beschikken over instrumenten, die een nog grotere  energie ontwikkelen dan die, welke de kern bij elkaar houdt. 
+    Generatoren en cyclotrons, waarmee men met miljoenen volts en onvoorstelbare snelheden de geheimen van de straling en de transmutatie kon doorgronden, waren dan ook nodig om de kernphysica verder te ontwikkelen.
   parts: 
+    - id: g-1
+      title: Van de Graaff generator
+      description: |
+        Apparaat om hoge electrische gelijkspanningen op te wekken electrische lading wordt onderaan met een betrekkelijk lage spanning voortdurend op een rondlopende band gebracht. 
+        Bovenaan wordt deze lading weer van de band afgevoerd aan de hoogspannings-electrode. 
+        Deze verkrijgt daardoor een hoge spanning (tot vele miljoenen Volts bij grote installaties). 
+        Deze spanning kan gebruikt worden om deeltjes, bijv. protonen, deuteronen, heliumkernen te versnellen; met dergelijke snelle deeltjes worden atoomkernen gebombardeerd. 
+        Zo wordt de kern gedwongen zijn geheimen prijs te geven.
+        Het hier tentoongestelde model kan een spanning van driekwart miljoen Volt opwekken.
+      credit: bruikleen: N.V. Philips, Eindhoven
+    - id: g-2 a
+      title: Mechanisch model van het cyclotron-principe
+      description: |
+        Het kogeltje stelt het deeltje voor (proton, deuteron of heliumkern) dat versneld wordt.
+        De mechanische krachten in dit model, zijn in het werkelijke cyclotron electrische en magnetische krachten.
+        Evenals in het cyclotron wordt het kogeltje 2 x per omgang versneld.
+      credit: bruikleen: Science Museum, Londen
+    - id: g-2 b
+      title: Mechanisch model van het cascade-generator principe
+      description: |
+        In de cascade-generator wordt de electrische lading in trappen op een steeds hoger niveau (spanning) gebracht. 
+        In het mechanisch model stellen de kogeltjes de lading voor, terwijl de spanning aangegeven wordt door de hoogte boven het grondvlak.
+      credit: bruikleen: Science Museum, Londen
+    - id: g-2 c
+      title: Mechanisch model van het lineaire versneller principe
+      description: |
+        In de lineaire versneller worden electronen, in een rechte baan, vele malen achtereen aan een versnellende kracht onderworpen, waardoor zij uiteindelijk een grote snelheid verkrijgen. 
+        Het kogeltje in het model stelt een electron voor, dat trapsgewijze versneld wordt. 
+        Evenals in de werkelijke versneller wordt ook in het model de afstand, tussen de punten waar de versnelling plaats heeft, groter, naarmate de snelheid van het deeltje toeneemt.
+      credit: bruikleen: Science Museum, Londen
+    - id: g-3
+      title: Maquette druktankgenerator
+      description: |
+        Hoogspanningsgeneratoren, welke in het gebied van honderdduizenden Volts en meer werken, kunnen veel kleiner gebouwd worden, indien de eigenlijke hoogspanningsdelen in een tank met gas onder hoge druk geplaatst worden, bijv. stikstof of koolzuurgas van 10 of meer atmosfeer.
+        Getoond wordt het model van een 1 miljoen Volt cascadegenerator in druktank.
+      credit: bruikleen: N.V. Philips, Eindhoven
+    - id: g-4
+      title: Cascade-generatoren
+      description: |
+        Met Cascade-generatoren kunnen gelijkspanningen tot enige miljoenen Volts opgewekt worden. Deze installaties worden o.a. gebruikt om deeltjes te versnellen met deze hoge spanningen (bijv. protonen, deuteronen, heliumkernen). 
+        Dergelijke kunstmatig versnelde deeltjes dienen voor het onderzoek van de kernen.
+
+        De werking berust op het principe dat een aantal in serie geschakelde condensatoren voortdurend geladen worden gehouden op een betrekkelijk lage spanning (bijv. enige honderdduizenden Volts); de hoogspanningselectrode verkrijgt dan een spanning gelijk aan de som van de spanningen van deze condensatoren.
+      credit: bruikleen: N.V. Philips, Eindhoven
+    - id: g-5
+      title: Het versnelde deeltje
+      description:
+      credit:
+    - id: g-6
+      title: Maquette Synchro Cyclotron CERN
+      description: |
+        Het Synchro Cyclotron is een installatie waarmede deeltjes (b.v. protonen, deuteronen of heliumkernen) tot zeer grote snelheden kunnen worden gebracht. 
+        Dergelijke snelle deeltjes worden gebruikt om atoomkernen mede te bombarderen, teneinde deze te onderzoeken. 
+        In de CERN installatie kunnen energieën worden bereikt tot 600 miljoen electron-Volt, d.w.z. de deeltjes krijgen uiteindelijk snelheden alsof zij een electrisch veld van 600 miljoen Volt hadden doorlopen. 
+        In feite is de versnellende spanning slechts gering (kleiner dan honderduizend Volt), doch door ieder deeltje zeer vele malen door deze spanning te laten versnellen, worden de genoemde hoge snelheden bereikt. 
+        De grote magneet doet de deeltjes tienduizenden malen in een spiraalvormige baan lopen, per omgang worden zij tweemaal aan de versnellende spanning onderworpen. 
+        Op deze wijze wordt de zeer lange weg die ieder deeltje moet doorlopen \"opgerold\" binnen redelijke afmetingen. 
+        Deze magneet heeft een diameter van 5 meter, weegt ca 2500 ton en verbruikt 750 kW aan electrische energie.
+      credit: bruikleen: CERN, Genève
+    - id: g-7
+      title: Maquette Proton Synchrotron CERN
+      description: |
+        Bepaalde facetten van het onderzoek van de kern vereisen thans installaties waarmede protonen tot snelheden van miljarden volts versneld kunnen worden; met dergelijke extreem snelle deeltjes worden atoomkernen gebombardeerd, om nog dieper in de geheimen van de kern door te dringen.
+        De grootste installatie ter wereld van dit type is thans in aanbouw bij het CERN te Genève. 
+        De te versnellen deeltjes lopen rond in een cirkelvormige \"renbaan\" van ruim 600 m lang.
+        De positie van deze \"renbaan\" moet langs de gehele omtrek overal binnen 0,5 millimeter nauwkeurig bepaald zijn, waarvoor geheel nieuwe meetmethoden moesten worden ontwikkeld. 
+        De protonen worden in deze baan gehouden door 100 groepen electromagneten, iedere groep weer bestaande uit 10 afzonderlijke magneten van ca. 3,5 ton elk (zie no. g 8). 
+        Tussen iedere 2 groepen electromagneten worden de deeltjes aan een versnellende spanning onderworpen. 
+        Na in ca. 1 sec. de \"renbaan\" ongeveer 500.000 maal doorlopen te hebben, zullen de deeltjes ten slotte energieën van 25 miljard electron-Volt (25.000.000.000 eV !) bereikt hebben.
+      credit: bruikleen: CERN, Genève
+    - id: g-8
+      title: Model magneet Proton-Synchrotron CERN
+      description: |
+        Model ware grootte van twee van de duizend electromagneten, welke rond de ca. 600 m lange \"renbaan\" in het Proton Synchrotron zijn opgesteld (zie no. g-7). iedere magneet weegt ca. 3,5 ton en heeft een maxi maal electrisch verbruik van 28 kW.
+      credit: bruikleen: CERN, Genève
+    - id: g-9
+      title: Maquette van het CERN te Genève
+      description: |
+        Overzicht over de gebouwen en installaties van het Europese kernonderzoekingscentru m bij Genève.
+        Men herkent o.a. het gebouw van het Synchro Cyclotron (zie g-6) en, geheel rechts, ondergronds het Proton Synchrotron
+      credit: bruikleen: CERN, Genève
 - id: h
   title: Radioactiviteit, zichtbaar voor iedereen
-  description: 
+  description: |
+    ## Theorie wordt werkelijkheid!
+    In 1938 werd aan de werktafel van Professor Otto Hahn voor het eerst de splijting van een zware uraniumkern door een neutron waargenomen, waarbij naar berekening een energie van tweehonderd miljoen electronvolt vrij kwam: massa was energie geworden! 
+    Overal ter wereld werd het experiment herhaald en daarbij werd ontdekt, dat er méér neutronen vrij kwamen dan het ene, dat nodig was om de splijting tot stand te brengen.
+    De mogelijkheid van een \"kettingreactie\", splijting op splijting in groeiend aantal, met een onvoorstelbare energie-ontwikkeling, was ontdekt!
+    Jaren van ingespannen arbeid volgden, tot op 2 december 1942 de eerste \"atoomzuil\" kon worden ontstoken als voorloper van de tegenwoordige
+    kernreactoren: de beheerste kettingreactie was een feit geworden.
   parts: 
+    - id: h-1
+      title: Wilsonkamers
+      description: |
+        In de ronde glazen doos zijn telkens bij daling van de bodem de sporen te zien, die in een vochtige atmosfeer worden achtergelaten door alpha-deeltjes, afkomstig van een radioactief preparaat.
+        Bij inschakelen van een magneetveld worden de banen gekromd, waaruit het teken van de lading van de deeltjes kan worden afgeleid.
+      credit: bruikleen: Natuurkundig Laboratorium der Vrije Universiteit, Amsterdam
+    - id: h-2
+      title: Diffusie nevelkamer
+      description: |
+        In de glazen doos zijn de sporentezien,die de dooreen radioactief preparaat uitgezonden alpha-deeltjes in een vochtige atmosfeer achterlaten.
+      credit: bruikleen: N.V. Nenimij, 's-Gravenhage
+    - id: h-3
+      title: Demonstratie-model Geigerteller
+      description: |
+        In dit vergrote model wordt het principe getoond waarmee men één voor één de door een radioactief preparaat uitgezonden deeltjes kan tellen.
+      credit: bruikleen: N.V. Philips, Eindhoven
+    - id: h-4
+      title: Voorbeelden van commerciele telapparatuur
+      description: |
+        a. Complete telapparatuur met Geiger-Müller telbuis.
+        b. Gamma-scintillatieteller.
+        Gammastralen worden in een kristal omgezet in lichtflitsjes (scintillaties), welke met behulp van een lichtgevoelige cel kunnen worden gemeten.
+        c. Gamma-spectrometer.
+        Apparaat voor het onderscheiden van gammastralen van verschillende energie (hardheid).
+      credit: bruikleen: N.V. Philips, Eindhoven
+    - id: h-5
+      title: Demonstratie halfwaardetijd
+      description: |
+        De door een radioactieve stof uitgezonden straling neemt langzaam af. 
+        De tijd waarin de straling tot de helft afneemt (halfwaardetijd) is kenmerkend voor een bepaald isotoop. 
+        Deze proef toont het afnemen van de straling bij een stof met een korte halfwaardetijd.
+      credit: bruikleen: opstelling; Instituut voor Kernphysisch Onderzoek, Amsterdam, teller; N.V. Philips, Eindhoven
+    - id: h-6
+      title: Reikweidte radioactieve stralling
+      description: |
+        De door een radioactieve stof uitgezonden alpha- en betadeeltjes hebben slechts een beperkte reikwijdte in lucht. 
+        Papier en metaal in verschillende dikten houden de straling in verschillende mate tegen. 
+        Met een proef worden deze verschijnselen nader gedemonstreerd.
+      credit: bruikleen: N.V. Nenimij, 's-Gravenhage
+    - id: h-7/8
+      title: Demonstratie Uraniumkernsplijting
+      description: |
+        Op twee wijzen wordt de splijting van de Uraniumkern duidelijk zichtbaar gemaakt.
+      credit: bruikleen: opstelling; Natuurkundig Laboratorium der Rijksuniversiteit Groningen en het Instituut voor Kernphysisch Onderzoek, Amsterdam, telapparatuur; N.V. Philips, Eindhoven
 - id: i
   title: Uitzicht op de energiebronnen van de toekomst
   description: 
@@ -165,14 +504,130 @@
   description: |
     De grote uranium-235-kernen kunnen splijten, d.w.z. uiteenvallen in twee nieuwe elementen van ongeveer gelijke massa. Deze splijting treedt op, als een uranium-235-kern getroffen wordt door een neutron. Bovendien zendt de splijtende kern zelf óók weer twee of drie neutronen uit, die op hun beurt weer nieuwe kernen kunnen splijten: _de kettingreactie_. De kettingreactie kan ongecontroleerd verlopen (een explosie) of beheerst: in de kernreactor.
   parts: 
+    - id: k-1
+      title: Splijting van een uranium-235-kern door een invallend neutron
+      description: |
+        De isotopen uranium-235 en uranium-238, hoewel chemisch gelijk, hebben wezenlijk verschillende kerneigenschappen.
+        Uranium-235: splijt in twee of meer lichtere elementen, wanneer het getroffen wordt door neutronen, waarbij grote hoeveelheden warmte en twee of drie snelle neutronen vrijkomen.
+        Uranium-238: splijt niet, maar gaat over in een nieuw, zwaarder element: plutonium.
+        In het natuurlijk uranium komt slechts 0,7% van het 235-isotoop voor. 
+        Dit isotoop is de eigenlijke splijtstof en warmte-voortbrenger in een kernreactor. 
+        Soms is het nodig het gehalte aan het 235-isotoop in natuurlijk uranium te verhogen; dit noemt men het verrijken van uranium.
+      credit: ontwerp en uitvoering: Gemeente Energiebedrijf, Amsterdam
+    - id: k-2
+      title: Ongecontroleerde kettingreactie
+      description: |
+        Wanneer de kettingreactie ongeremd kan voortgaan, komen in een onderdeel van een seconde enorme energieën op explosieve wijze vrij.
+      credit: ontwerp en uitvoering: Gemeente Energiebedrijf, Amsterdam
+    - id: k-3
+      title: Beheerste kettingreactie
+      description: |
+        Door de kettingreactie te beteugelen, kan de vrijkomende energie op iedere gewenste sterkte geregeld worden. 
+        De energieproductie staat dan voortdurend ter beschikking.
+      credit: ontwerp en uitvoering: Gemeente Energiebedrijf, Amsterdam
+    - id: k-4
+      title: Zo werkt een kernreactor
+      description: |
+        Een reactor produceert energie, warmte. Juist als in een gewone electrische ceritrale kan deze warmte omgezet worden (via stoom en stoomturbines) in electriciteit.
+        De zes hoofdbestanddelen van een reactor zijn:
+        a. De splijtstof, waarin door kernsplijtingen de energie vrijkomt en nieuwe snelle neutronen gevormd worden.
+        b. De moderator, die de snelle neutronen afremt tot de snelheid, vereist om de kettingreactie op gang te houden.
+        c. De regelstaven, die de kettingreactie in de hand houden door een teveel aan rondvliegende neutronen \"weg te vangen\"; meestal bestaand uit een materiaal, dat sterk neutronen absorbeert, bijv. cadmium of borium.
+        d. De stopstaven, die in geval van nood de kettingreactie onmiddellijk tot stilstand brengen. Evenals de regelstaven zijn zij vervaardigd uit sterk neutronen absorberend materiaal. 
+        Normalerwijze staan de stopstaven geheel uitgetrokken. Door middel van electromagneten kan men ze op ieder moment in werking stellen.
+        e. Het warmte-onttrekkende middel, dat de in de splijtstof geproduceerde warmte uit de reactor wegvoert.
+        f. De afscherming, die het personeel beschermt tegen de in de reactor opgewekte intensieve stralingen.
+      credit:
+    - id: k-5
+      title: Proefopstelling moderatoren
+      description: |
+        In deze proef wordt gedemonstreerd hoe een moderator de snelle neutronen verlangzaamt en ze zodoende beter geschikt maakt om verder kernsplijtingen te veroorzaken.
+      credit: bruikleen: opstelling; Instituut voor Kernphysisch Onderzoek, Amsterdam; teller; N.V. Philips, Eindhoven
+    - id:
+      title:
+      description:
+      credit:
 - id: l
   title: Uranium, de grondstof
-  description:
+  description: |
+    ## In de ingewanden der aarde
+    Nieuwe energie, nieuwe grondstoffen: uraniumerts. 
+    Eeuwenlang een nauwelijks bekend produkt, slechts gebruikt voor het kleuren van glas en aardewerk. 
+    Tot uraniumerts in 1942 opeens dé energiebron van de toekomst bleek te zijn. 
+    Oude vindplaatsen werden ontgonnen, nieuwe werden opgespoord. 
+    Over de hele wereld knetterden de telapparaten, die het kostbare erts moesten aanwijzen. 
+    Rum Jungle, Radium Hill, Behara-Esra, Zyryanovsk, ... onbekende plaatsen tot nog toe op de wereldkaart, thans belangrijke vindplaatsen van uranium.
   parts: 
+    - id: l-1
+      title: Draagbare telapparaten
+      description: |
+        GMT 14: Waterdicht telapparaat voor fijnere metingen, werkt op batterijen.
+        GMT 15: Waterdicht telapparaat, speciaal voor gebruik in mijnen en metingen van sterke radioactiviteit.
+      credit: bruikleen: Commissariat à !'Energie Atomique, Parijs
+    - id: l-2
+      title: Uraniummijn
+      description: |
+        Uranium komt in verschillende ertsen in de aardbodem voor, zoals o.a. pekblende.
+        Beroemde vindplaatsen zijn TsjechoSlowakije, Canada en de Belgische Congo.
+        Ook in de Verenigde Staten, Frankrijk, de Sovjet Unie, Zuid Afrika en Australië zijn tegenwoordig uraniummijnen.
+        Door zijn radioactiviteit verraadt het erts zijn aanwezigheid; zelfs vanuit een vliegtuig kan het worden opgespoord.
+        In deze namaak-uraniummijn ziet men dat deze ertsen lichtgevend zijn als zij met ultraviolet licht worden bestraald. 
+        Zichtbaar is tevens de ventilatie-inrichting, die nodig is om ophoping van radioactieve gassen (radon) te voorkomen. 
+        Voorts is mijngereedschap aanwezig.
+      credit: bruikleen: Commissariat à !'Energie Atomique, Parijs
+    - id: l-3
+      title: Uranium-erts wordt niet \"gewogen\" maar \"geteld\"
+      description: |
+        De waarde van een wagonlading uranium-erts wordt natuurlijk bepaald door het gehalte aan radioactief uranium. 
+        Dit gehalte is met een "teller", die de radioactiviteit meet, gemakkelijk te meten.
+        Alleen de mijnkarretjes met een voldoende radioactieve vulling gaan naar de fabriek, de andere naar de afvalberg.
+      credit: bruikleen: teller; N.V. Philips, Eindhoven
+    - id: l-4
+      title: Van erts tot metaal
+      description: |
+        Ruw uraniumerts
+        wordt door malen, wassen en zeven veredeld tot 
+        geconcentreerd erts.
+        Hieruit wordt door een lange reeks chemische bewerkingen afgescheiden een 
+        zuivere uraniumverbinding.
+        Door behandeling met calciumpoeder in een smeltkroes (thermietreactie) verkrijgt men het
+        natuurlijke uraniummetaal,
+        dat in vele kernreactortypen zonder meer kan worden gebruikt.
+        Indien -men, zoals voor sommige reactortypen vereist is, verrijkt uranium wenst te maken, d.w.z. uranium met een verhoogd gehalte aan het splijtbare 235-isotoop, wordt in  bovengenoemd proces een tussentrap ingeschakeld, waarbij  gasvormig zuiver uraniumfluoride door een enorme diffusiefabriek  wordt gepompt. 
+        Stap voor stap, door honderden  poreuze wanden diffunderend, neemt het gehalte aan  uranium-235 langzaam toe. Daarna volgt weer de thermietreactie, om het
+        verrijkt uraniummetaal
+        te verkrijgen.
+      credit: bruikleen: Commisariat à !'Energie Atomique, Parijs
+    - id: l-5
+      title: Voorbeelden van splijtstof elementen
+      description: |
+        Meestal worden de splijtstofelementen beschermd door een omhulsel, dat weinig neutronen absorbeert, bijv. magnesium of aluminium.
+        Verschillende uitvoeringen worden getoond.
+        
+
+
+
+      credit: |
+        - Splijtstofelement uit de reactor te Marcoule.
+        (bruikleen: Commissariat à !'Energie Atomique, Parijs)
+        - 12 jaar ontwikkeling van splijtstofelementen.
+        (bruikleen: ICI, Metals Division, Londen)
+        - Amerikaanse ontwerpen voor splijtstofelementen
+        (bruikleen: Sylvania Electric Corp. U.S.A.).
+        - Splijtstofelement, zoals in de Bassin-reactor op deze tentoonstelling wordt gebruikt.
+        (bruikleen: Babcock & Wilcox Corp., New York).
+    - id: l-6
+      title: Voorbeelden van vaste moderatoren
+      description: |
+        Grafiet.
+        Berylliumoxyde.
+        Moderatoren dienen om de bij splijting van uranium-235 kernen gevormde snelle neutronen af te remmen door botsingen tot snelheden, waarbij ze nieuwe splijtingen kunnen veroorzaken.
+        Zeer grote zuiverheid van de moderatoren is vereist, om te vermijden, dat neutronen erin verloren gaan tengevolge van reacties met kernen van onzuiverheden.
+      credit: bruikleen: Commissariat à_l'Energie Atomique, Parijs
 - id: m
   title: Bibliotheek en leeszaal
   description: Boeken en tijdschriften over het onderwerp van de tentoonstelling.
-  credit: "bruikleen: N.V. de Weduwe J. Ahrend & Zoon's Amsterdamse Handelsvereniging, Amsterdam"
+  credit: \"bruikleen\: N.V. de Weduwe J. Ahrend & Zoon's Amsterdamse Handelsvereniging, Amsterdam\"
   parts: 
 - id: n
   title: Een werkende kernreactor
@@ -193,9 +648,122 @@
   title: Modellen van kernreactoren
   description:
   parts: 
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
 - id: p
   title: Isotopen in de praktijk
-  description:
+  description: |
+    ## Isotopen: machtige bontgenoten.
+    De stoffen waarmee in de laboratoria voor de kernphysica wordt gewerkt zijn doorgaans sterk radioactief. Dit vereist voorzorgsmaatregelen. 
+    De invloed van de radioactieve materialen op levende en dode stoffen werd diepgaand onderzocht. 
+    Hierdoor werd het mogelijk beschermende maatregelen te ontwikkelen, die het werken met radioactieve stoffen even veilig maken als werkzaamheden in chemische en andere industrieën.
+
+    Vóór de komst van de grote kernphysische installaties, versnellers en reactoren, waren radioactief stralende preparaten uiterst zeldzaam. 
+    De mogelijkheden waren reeds onderkend, de toepassingen echter bleven noodgedwongen beperkt.
+    Met de komst van de kernreactoren werd het mogelijk radioactieve isotopen in iedere gewenste hoeveelheid te produceren. 
+    Geheel nieuwe gebieden in wetenschap en techniek konden toen ontsloten worden: in de geneeskunde, de landbouw en de industrie zijn de isotopen onmisbare helpers van de werkende mens geworden.
   parts: 
 - id: q
   title: Buitenlandse inzendingen (begane grond)
@@ -203,7 +771,15 @@
   parts: 
 - id: r
   title: Electronica, een wonderland
-  description:
+  description: |
+    ## Het electron in dienst van wetenschap en techniek.
+    Het electron, dat zulk een belangrijk onderdeel vormt van het atoom, bewijst zélf de wetenschap en techniek van vandaag grote diensten. 
+    In beweging kan het electromagnetische golven verwekken, welke zich door de ruimte voortplanten. 
+    Deze golven hebben, afhankelijk van hun golflengte, welke van verscheidene kilometers tot een biljoenste van een centimeter kan bedragen, zeer verschillende eigenschappen.
+    
+    De mens heeft deze golven dienstbaar weten te maken aan velerlei doeleinden, waarvan de voornaamste in een spectrum zijn aangegeven.
+    De beheersing van de beweging van electronen in geleiders, halfgeleiders, in gassen en in het luchtledige, heeft geleid tot de ontwikkeling van de electrotechniek en de electronica, van radiobuizen, röntgenbuizen, kathodestraalbuizen, fotocellen en transistoren. 
+    Hierdoor werden mogelijk de electronische rekenmachine, zowel als de electronenmicroscoop, het röntgenonderzoek en de televisie, de radio-omroep en de radar, en duizend andere voor de mensheid nuttige toepassingen.
   parts: 
 - id: s
   title: De Keuken van de Toekomst
@@ -224,17 +800,29 @@
 - id: u
   title: Jules Verne's visioenen
   description: |
-    Jules Verne's held, kapitein Nemo, leefde met zijn bemanning voorgoed in de onderzeeër "Nautilus": nimmer behoefde zijn schip te bunkeren.
-    Heeft hij ooit vermoed, dat 80 jaar later een kernreactor een moderne "Nautilus" tienduizenden mijlen laat varen zonder zijn bunkervoorraad aan te vullen?
-    Wat kapitein Nemo zag, kunt U hier zien, ook de zeeschelp "Nautilus", waaraan Nemo's schip zijn naam ontleende. Bovendien ziet U het model van de Amerikaanse duikboot "Nautilus", die dit Jules Verne's visioen tot werkelijkheid bracht.
+    Jules Verne's held, kapitein Nemo, leefde met zijn bemanning voorgoed in de onderzeeër \"Nautilus\": nimmer behoefde zijn schip te bunkeren.
+    Heeft hij ooit vermoed, dat 80 jaar later een kernreactor een moderne \"Nautilus\" tienduizenden mijlen laat varen zonder zijn bunkervoorraad aan te vullen?
+    Wat kapitein Nemo zag, kunt U hier zien, ook de zeeschelp \"Nautilus\", waaraan Nemo's schip zijn naam ontleende. Bovendien ziet U het model van de Amerikaanse duikboot \"Nautilus\", die dit Jules Verne's visioen tot werkelijkheid bracht.
   parts: 
 - id: v
   title: Levende onderzeeërs
-  description:
+  description: |
+    ## Het tijdperk der atoomenergie is begonnen!
+    Met reuzenschreden lieeft de techniek van de kernsplijting zich de laatste jaren ontwikkeld. 
+    Talrijke, aanvankelijk schier onoverkomelijke moeilijkheden zijn overwonnen: de automatische regeling van de kettingreactie, materialen, die de intensieve straling weerstaan, de warmte-overdracht, de beveiliging en de koeling, enz.
+    Vele reactoren zijn nu al in bedrijf. 
+    Het eerste atoomschip, de onderzeeboot \"Nautilus\" heeft reeds tienduizenden zeemijlen afgelegd, het eerste tankschip, door kernenergie voortgestuwd, is in aanbouw, de reactor in Calder Hall (Engeland) voorziet een groot gebied reeds van electrische stroom.
+    Op \"Het Atoom\" staat de eerste kernreactor, die ooit in Nederland is geplaatst; hier wordt energie uit atoomkernen geproduceerd.
   parts:
 - id: w
   title: Een mensenleeftijd luchtvaarthistorie
-  description:
+  description: |
+    ## De wereld van morgen is dichtbij!
+    In 1903 maakten de gebroeders Wright in Amerika de eerste vlucht met een vliegmachine. 
+    Niemand schonk er ernstig aandacht aan, omdat niemand toen nog in de betekenis van de luchtvaart kon geloven. 
+    Nu, nauwelijks vijftig jaar later, is de gehele wereld omspannen met een dicht net van luchtvaartwegen. 
+    Zie naar buiten! Zie Schiphol, zie de reusachtige vliegtuigen van thans! De droom van 1903 was geen dwaze fantasie!
+    In één generatie maakte de wereld deze sprong. Het is aan ons, de generatie, van 1957, de toekomst van de wereld van morgen te bepalen.
   parts: 
 - id: x
   title: De wenteling der tijden
