@@ -648,110 +648,192 @@
   title: Modellen van kernreactoren
   description:
   parts: 
-    - id:
-      title:
-      description:
+    - id: o-1
+      title: 9 type kernreactoren
+      description: |
+        a Gasgekoe/de Grafiet-reactor 
+        Splijtstofelementen van natuurlijk uranium bevinden zich in een moderator van zeer zuiver grafiet, Deze moderator remt de bij de splijting van de uraniumkernen vrijgekomen snelle neutronen aftot de snelheid, vereist om de kettingreactie op gang te houden.
+        De in de splijtstofelementen ontwikkelde warmte wordt afgevoerd naar warmtewisselaars door middel van gas onder hoge druk.
+        De uit de reactorkern wegvliegende neutronen worden door een grafietreflector ten dele teruggekaatst.
+        b Natriumgekoelde Grafiet-reactor
+        In de grafietmoderator (vertrager van snelle neutronen) zijn de splijtstofelementen van natuurlijk uranium geplaatst; de ontwikkelde  warmte wordt afgevoerd naar de warmtewisselaars met behulp van vloeibaar natrium (metaal).
+        c Bassin-reactor
+        Met het isotoop-235 verrijkte uranium-splijtstofelementen zijn geplaatst op de bodem van een ca. 8 meter diep bassin, gevuld  met gewoon doch zeer zuiver water. 
+        Dit water heeft een 3-voudige functie: vertraging (modereren) van de snelle neutronen, afvoer van de ontwikkelde warmte en absorptie van de opgewekte radioactieve straling, waardoor het personeel veilig kan werken. 
+        Door zijn eenvoud en grote beschikbare ruimte voor experimenten is dit type reactor zeer geschikt voor wetenschappelijk onderzoek.
+        De reactor, die op "Het Atoom" in werking te zien is, is een bassin-reactor.
+        d Zwaar-water-reactor
+        De splijtstofelementen van natuurlijk uranium bevinden zich in zwaar-water. 
+        Dit zwaar-water dient zowel ais moderator (vertrager) van de gevormde snelle neutronen, als ook om de ontwikkelde warmte af te voeren naar de warmtewisselaars. 
+        Dit type reactor is opgesteld te Kjeller in Noorwegen in het Instituut der Noors-Nederlandse samenwerking.
+        Zwaar-water heeft als voordeel boven gewoon water, dat het slechts zeer weinig neutronen aan de reactie onttrekt, terwijl In gewoon water wel neutronen worden verbruikt door reactie met de gewone waterstofkernen. 
+        Daarom kan met natuurlijk uranium als splijtstof worden gewerkt.
+        e Kokend water reactor
+        De splijtstofelementen van natuurlijk uranium zijn geplaatst in zwaar-water. Dit dient om de snelle neutronen te vertragen. 
+        De ontwikkelde- warmte in de splijtstof brengt het zwaar-water aan het koken, de gevormde stoom kan óf direct de turbines van de turbo-generatoren aandrijven, óf zijn warmte afstaan aan een warmtewisselaar.
+        f Hogedruk water reactor
+        De splijtstofelementen, bestaande uit uranium verrijkt met het isotoop-235, bevinden zich in zeer zuiver normaal water dat onder hoge druk gehouden wordt. 
+        Het water vervult de functie van vertrager van de snelle neutronen (moderator) en voert voorts de ontwikkelde warmte af naar de warmtewisselaars. 
+        Door de hoge druk gaat het water niet koken, hoewel het tot temperaturen van vele honderden graden Celsius verhit wordt.
+        g Suspop-reactor
+        De splijtstof, bestaande uit zeer kleine deeltjes oxyde van uranium verrijkt met het isotoop-235, gesuspendeerd in gewoon, doch zeer zuiver water, wordt onder hoge druk rondgepompt door het reactorvat. 
+        Het water vertraagt de neutronen en wordt verhit door de vrijgemaakte splijtingsenergie in de vorm van warmte. 
+        De suspensie wordt gekoeld in de warmtewisselaars. 
+        Het berylliumoxyde en grafiet om het reactorvat reflecteren de wegvliegende neutronen ten dele, waardoor, ondanks de kleine afmetingen van het reactorvat, de reactie toch op gang blijft.
+        De regeling van de intensiteit van de reactie vindt hier plaats door meer of minder uraniumoxyde toe te voegen aan de suspensie.
+        h Snelle \"broed\"-reactor
+        De centrale kern van dit reactor-type bestaat uit nagenoeg zuiver uranium-233, uranium-235 of plutonium. 
+        Om deze kern bevindt zich een mantel van thorium of uranium-238. De snelle neutronen, gevormd in de centrale kern, worden in dit type reactor niet afgeremd door een moderator; de kern uit nagenoeg zuiver splijtbaar materiaal maakt dit overbodig. 
+        De uit de centrale kern wegvliegende neutronen zetten het thorium of uranium-238 van de mantel om in nieuwe splijtstof, namelijk uranium-233 of plutonium. 
+        Hierbij wordt meer nieuwe splijtstof gevormd dan in de centrale kern wordt verbruikt, vandaar de naam \"broed\" reactor, \"snel\", omdat met snelle neutronen worden gewerkt De \"broed\"-mantel is omgeven door grafiet, dat als reflector van ontsnappende neutronen dient. 
+        De warmte, ontwikkeld in de centrale kern en in de \"broed\"-mantel, wordt door vloeibaar natrium (metaal) afgevoerd naar warmtewisselaars.
+        i Homogene energie reactor
+        Het eigenlijke reactorvat is omgeven door een \"broed\"-mantel.
+        De splijtstof bestaat uit een u raniu msu lfaatoplossi ng in gewoon of zwaar-water. 
+        Dit water dient zowel voor de afvoer van de ontwikkelde warmte, alsook als vertrager (moderator) van de gevormde snelle neutronen. 
+        Neutronen, welke uit het reactorvat ontsnappen, worden in de "broed"-mantel weer gebruikt om het thorium om te zetten in uranium-233, evenals het 235-isotoop, een splijtbare substantie. 
+        Op deze wijze wordt meer nieuwe splijtstof gevormd dan in het reactievat wordt verbruikt. 
+        Daarom noemt men dit type een "broed"-reactor, met de toevoeging \"langzaam\", omdat het "broeden" met langzame (vertraagde) neutronen plaats heeft.
       credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
+    - id: o-2
+      title: Reactor van het Brookhaven National Laboratory U.S.A.
+      description: |
+        Model op ware grootte van een kernreactor, waarin natuurlijk (niet verrijkt) Uranium als splijtstof wordt gebruikt en grafiet als moderator om de neutronen te vertragen tot de snelheid waarbij ze nieuwe kernsplijtingen kunnen veroorzaken.
+        De ontstane warmte, 30.000 kW, wordt door lucht afgevoerd en verdwijnt door de schoorsteen. Het doel van deze reactor is namelijk niet energieproductie, maar het maken van kunstmatige radioactieve isotopen.
+        Hiertoe worden de te behandelen preparaten door zijdelingse openingen tot in het hart van de reactor gebracht.
+        De openingen vóórin dienen voor het laden met uraniumstaven.
+        Van de linkerzijde ziet men het inwendige van de reactor met de opgestapelde grafietblokken en de daartussen liggende uraniumstaven.
+        De regelstaaf links kan naar binnen geschoven worden. 
+        Het materiaal, waarvan hij gemaakt is, neemt dan zoveel neutronen weg, dat de reactie wordt verminderd, eventueel tot stilstand komt.
+      credit: bruikleen':'' United States Information Service, 's-Gravenhage
+    - id: o-3
+      title: Maquette van de Suspop-reactor
+      description: |
+        Dit type werd in het kader van het nederlandse reactorprogramma door de KEMA in studie genomen.
+        De splijtstof, met het isotoop-235 verrijkt uraniumoxyde, wordt als suspensie (vandaar de naam "suspop") door water meegevoerd.
+        Slechts in het door berylliu moxyde en grafiet omgeven bolvormige reactorvat is voldoende splijtstof bijeen, om de splijting te onderhouden.
+        De vrijgekomen warmte wordt door de suspensie zelf afgevoerd en aan een koeler afgegeven (in de uitvoering die voor energieproduktie geschikt zou zijn aan een stoom producerende warmtewisselaar).
+        De suspensie staat onder druk om koken te voorkomen bij de hoge temperatuur die wordt bereikt.
+        Door de ontleding van water ontstaat knalgas dat apart weer in water wordt omgezet.
+        In plaats van met regelstaven wordt de reactie geregeld door meer of minder splijtstof aan de suspensie toe te voegen
+      credit: bruikleen':' KEMA, Arnhem
+    - id: o-4
+      title: Maquette van de Marcoule Centrale
+      description: |
+        Deze kernenergiecentrale, gelegen aan de Rhone ten Noorden van Avignon, omvat drie reactoren; splijtstof is natuurlijk uraniummetaal, bekleed met aluminium. 
+        Grafiet dient als moderator. Het vermogen bedraagt 4000 kW.
+        De geproduceerde warmte wordt door koolzuurgas onder druk afgevoerd en in warmtewisselaars voor stoomproductie benut.
+        De reactoren zijn ieder in een gewapend betonnen drukvat ingesloten.
+      credit: bruikleen':' Commissariat à !'Energie Atomique, Parijs
+    - id: o-5
+      title: Lekkage-verklikker van de reactor te Marcoule
+      description: |
+        Wanneer de aluminiumbekleding van de uraniumstaven in de reactor te Marcoule lek zou geraken, zouden gasvormige splijtingsfragmenten het koelgas verontreinigen. 
+        Door een automatisch apparaat wordt a(wîsselend uit alle gaskanalen een monster genomen, dat op radioactiviteit wordt onderzocht. 
+        Verhoogde radioactiviteit in een bepaald kanaal duidt de plaats van een lekkend splijtstofelement aan.
+      credit: bruikleen':' Commissariat à !'Energie Atomique, Parijs
+    - id: o-6
+      title: Maquettes van de EL 3 reactor
+      description: |
+        Twee maquettes van een franse onderzoekingsreactor waarin natuurlijk uranium als splijtstof wordt gebruikt.
+        De vrijkomende neutronen worden door zwaar-water verlangzaamd tot de gunstige snelheid om nieuwe kernsplijtingen in te leiden. Koeling geschiedt met lucht.
+        De tank met zwaar-water is omgeven dooreen laag grafietblokken, waardoor een deel van de ontsnappende neutronen wordt gereflecteerd.
+        De reactor dient voor materiaalonderzoek en productie van radioactieve isotopen.
+      credit: bruikleen':' Commissariat à !'Energie Atomique, Parijs
+    - id: o-7
+      title: Maquette van de Calder Hall Centrale
+      description: |
+        Deze kernenergiecentrale~ de eerste ter wereld die electriciteit levert aan een verbruiksnet - werd in october 1956 door Koningin Elizabeth in gebruik gesteld, in Calder Hall (Noord-Engeland).
+        De installatie omvat tot nu toe twee reactoren van het grafiet-gemodereerde gasgekoelde type. 
+        De geproduceerde warmte wordt in vier warmtewisselaars per reactor overgedragen aan water. 
+        De ontwikkelde stoom drijft op normale wijze turbines aan. Het vermogen is 70.000 kW.
+      credit: bruikleen':' United Kingdom Atomie Energy Authority, Londen
+    - id: o-8
+      title: Maquette van een centrale met een kokend water reactor
+      description: |
+        Dit project voor een kernenergiecentrale omvat een reac~or met als splijtstof uranium, dat in geringe mate met het 235-isotoop is verrijkt. 
+        Door de bij de splijting ontwikkelde warmte wordt water, dat tegelijk als moderator en als koelvloeistof dient, aan de kook gebracht. 
+        De gevormde stoom draagt zijn warmte over aan een tweede hoeveelheid water in een warmtewisselaar.
+        De aldaar (bij lagere druk) secundair gevormde stoom drijft de turbine aan. De reactor bevindt zich in het koepelvormige gebouw. 
+        Het rechthoekige gebouw herbergt de turbines en generatoren.
+      credit: bruikleen':' Mitchel! Engineering Ltd, Londen
+    - id: o-9
+      title: Maquette van een \"Snelle Broed\"-reactor
+      description: |
+        In een \"broed\"-reactor is de eigenlijke reactor omgeven door een mantel van thorium of uranium-238, stoffen die zelf niet splijtbaar zijn, maar door invangen van neutronen kunnen overgaan in de splijtbare elementen uranium-233 en plutonium.
+        Het centrale deel van de reactor produceert zoveel ontsnappende neutronen, dat in de mantel méér nieuwe splijtstof gevormd  wordt, dan in het centrum wordt verbruikt; vandaar de naam \"broed\"-reactor. 
+        Doordat in dit centrum sterk verrijkte splijtstof wordt gebruikt (aanvankelijk uranium met 25% van het isotoop-235), kan de reactor werken zonder moderator, dus zonder dat de snelle neutronen worden afgeremd. 
+        Vandaar de toevoeging \"snel\" in de naam.
+        Het model toont de reactor, die sedert augustus 1956 in aanbouw is in de nabijheid van Monroe, Michigan, U.S.A. en de naam heeft gekregen van Enrico Fermi, de geleerde, die de eerste kernreactor bouwde. 
+        De koeling geschiedt met vloeibaar natrium, dat zijn warmte overdraagt aan water voor stoomproductie ten behoeve van electriciteits-opwekking.
+      credit: bruikleen':' L. de Heem, Brussel
+    - id: o-10
+      title: Maquette van de Centrale te Shippingport, U.S.A.
+      description: |
+        Model van de eerste amerikaanse kernenergiecentrale; het vermogen zal 60.000 kW bedragen.
+        In tegenstelling tot de europese energiereactoren wordt met het isotoop-235 verrijkt uranium als splijtstof gebruikt en als moderator dient niet grafiet maar water. 
+        Het water dient tegelijk voor warmteafvoer. 
+        Doordat het onder hoge druk staat kan het hoge temperaturen bereiken zonder te gaan koken. 
+        De warmte wordt in warmtewisselaars (midden) aan water onder lagere druk afgestaan, dat wel gaat koken. 
+        De geproduceerde stoom drijft op normale wijze turbines (rechts) aan.
+      credit: bruikleen':' United States Information Service, 's-Gravenhage
+    - id: o-11
+      title: 30.000 tan tank met kernenergie voortstuwingsinstallatie
+      description: |
+        Model van een olietanker, welke voortgestuwd zal worden met behulp van een kernenergie-installatie ontworpen door K. Maddocks. 
+        De warmte ontwikkeld in de kernreactor wordt door helium afgevoerd. 
+        Het hete heliumgas drijft direct een gasturbine aan, welke gekoppeld is aan een generator. 
+        De schroefas wordt aangedreven door electromotoren. 
+        Helium wordt in de kernreactor niet radioactief en kan daarom de gasturbine direct aandrijven, zonder de tussenschakeling van de gebruikelijke kostbare, de efficiency verminderende warmtewisselaars.
+      Beveiliging tegen radioactieve uitstraling van de reactor zelf wordt verkregen door deze tussen de achterste olietanks te plaatsen.
+      credit: |
+        vervaardigd door: Instituut voor Scheepvaart en Luchtvaart, Rotterdam; 
+        geschenk van: tien Nederlandse rederijen)
+    - id: o-12
+      title: Atomic City
+      description: |
+        Zo zou een stad er uit kunnen zien, die door een kernenergiecentrale van warmte en electriciteit wordt voorzien.
+      credit: bruikleen':' United States Information Service, 's-Gravenhage
+    - id: o-13
+      title: Maquette van de EdF 1 Centrale
+      description: |
+        Maquette van de eerste kernenergiecentrale in Frankrijk, die uitsluitend voor electriciteitsproductie zal dienen.
+        De reactor bevindt zich in het bolvormige bouwwerk en gebruikt als splijtstof natuurlijk uranium. Moderator: grafiet.
+        Warmteafvoer door koolzuurgas.
+      credit: bruikleen':' Electricité de France, Parijs
+    - id: o-14
+      title: Maquette van een stadsverwarmingsreactor
+      description: |
+        Plan voor een reactor die geen electrische energie produceert, doch slechts warmte, welke direct voor stadsverwarming wordt gebruikt.
+      credit: bruikleen':' A.B. Atomenergi, Stockholm
+    - id: o-15
+      title: Maquette van de NRX-reactor
+      description: |
+        Deze reactor wordt gebruikt voor de productie van isotopen en voor de bestudering van verschillende systemen voor energie reactoren.
+        De splijtstofelementen bestaan uit natuurlijk uranium bekleed met aluminium.
+        Moderator: zwaar-water.
+        De splijtstofälementen worden gekoeld door een apart circuit van gewoon water.
+        In gebruik sedert 1947.
+      credit: bruikleen':' Atomie Energy of Canada Ltd, Chalk River, Ontario
+    - id: o-16
+      title: Master Slave Manipulators (\"Magic Hands\")
+      description: |
+        Met \"magic hands\", mechanische wonderhanden, kan veilig achter beschermende muren gewerkt worden. 
+        Met de grootste precisie volgen de metalen handen elke beweging van de menselijke handen.
+      credit: bruikleen':' United States Information Service, 's-Gravenhage
+    - id: o-17
+      title: Kleine laboratoriumreactor AGN-201
+      description: |
+        Model op ware grootte van één der kleinste reactoren die men tot nu toe heeft geconstrueerd. 
+        Deze reactoren, die op bestelling worden geleverd, kunnen door hun zeer kleine vermogen (minder dan nodig is voor een zaklantaarnlampje) zonder bijzondere maatregelen in elk laboratorium geplaatst worden waar men onderzoekingen met neutronen wil verrichten.
+        De splijt stof is uranium, verrijkt met het isotoop-235, in lagen, afgewisseld met polyethyleen, dat een goede moderator is.
+      credit: bruikleen':' Koopman & Co., Amsterdam
+    - id: o-18
+      title: \"Plastic mens\"
+      description: |
+        In ruimten waar radioactief stof de huid en de ademhalingsorganen zou kunnen verontreinigen, beschermt men zich met een plastic pak, zoals wordt getoond. 
+        Van achteren wordt voortdurend zuivere lucht in het pak geblazen, zodat geen verontreinigde lucht van buiten naar binnen kan komen.
+      credit: bruikleen':' United States Information Service, 's-Gravenhage
 - id: p
   title: Isotopen in de praktijk
   description: |
@@ -765,6 +847,149 @@
     Met de komst van de kernreactoren werd het mogelijk radioactieve isotopen in iedere gewenste hoeveelheid te produceren. 
     Geheel nieuwe gebieden in wetenschap en techniek konden toen ontsloten worden: in de geneeskunde, de landbouw en de industrie zijn de isotopen onmisbare helpers van de werkende mens geworden.
   parts: 
+     - id: p-1
+      title: Hot lab
+      description: |
+        Zeer radioactieve ma t eri•a 1e n noemt men \"hot\" (heet). 
+        Deze kunnen alleen veilig worden behandeld in een "hot lab", achter een dikke beschermende muur van lood, ijzer of beton, welke de harde gammastraling afzwakt tot een onschadelijke sterkte.
+        In deze muur worden decimeters dikke loodglazen kijkvensters aangebracht. 
+        Maar sommige materialen kunnen zó intensief stralen, dat dit dikke loodglas zelfs niet toelaatbaar is. 
+        Dan maakt men van televisie gebruik om achter de muur te kijken. 
+        Voorts kunnen met televisie ook microscopische beelden worden waargenomen.
+        Alle handelingen in een "hot" laboratorium moeten met wonderlijk precieze mechanische hulpmiddelen van buitenaf worden verricht. 
+        Enige van deze instrumenten, zoals mechanische handen en lange tangen worden getoond.
+      credit: |
+        bruikleen: 
+        loodglas; Chance-Piikington, Birmingham,
+        televisie; N.V. Philips, Eindhoven; Pye Ltd, Cambridge,
+        mechanische handen; Pye Ltd, Cambridge,
+        lange tangen; Western Detail Manufacturers, Bristol; Townson (Mercer Ltd, Croydon)
+    - id: p-2
+      title: Theratron-bestralingsinrichting
+      description: |
+        Dank zij het werk van Marie en Pierre Curie kwam het radium ter beschikking van de geneeskunde. 
+        Nu kan deze kostbare stof worden vervangen door veel goedkoper radioactief cobalt, waarvan de stralingseigenschappen gunstiger zijn. In dit "Theratron", de z.g. cobaltbron, behandelt men patienten met dergelijke straling.
+      credit: bruikleen':' Atomie Energy of Canada Ltd
+    - id: p-3
+      title: Radioactieve isotopen in de geneeskunde
+      description: |
+        - voor onderzoek: sommige stoffen verzamelen zich speciaal in zieke weefsels. Door deze stoffen met radioactieve isotopen te "merken" kan men de ziektehaard opsporen.
+        - voor genezing: de krachtige radioactieve straling kan aangewend worden om de ziektehaarden te vernietigen.
+      credit: |
+        bruikleen: meubilair; Oostwoud Fabrieken, Utrecht;
+        medische apparaten; N.V. Laméris Instrumenten, Utrecht,
+        tellerstandaard; EN RAF, Delft,
+        telapparaten; N.V. Philips, Eindhoven
+    - id: p-4
+      title: Bereiding radioactief jodium
+      description: |
+        In deze opstelling wordt getoond hoe de verwerking plaats heeft uitgaande van het onzuivere radioactieve jodium, zoals dit uit de kernreactor komt, tot het eindproduct: het gezuiverde en voor medicinale doeleinden verpakte preparaat.
+        Radioactieve isotopen in de industrie
+        In de meest uiteenlopende industrieën wordt met de straling van radioactieve isotopen reeds onderzoek verricht en in verschillende gevallen wordt door gebruikmaken van radioactieve straling productverbetering bereikt:
+        - onderzoek van de slijtage van tandwielen, autobanden, zuigers en cilinders;
+        - meten van de dikte van papier, plastics, e.a., aan de lopende band;
+        - controle van gietstukken en lasnaden;
+        - meten van de vulhoogte van geheel gesloten tanks;
+        - controle van de loop van vloeistoffen in gesloten pijpleidingen.
+      credit: bruikleen':' Philips-Roxane, Amsterdam
+    - id: p-5
+      title: Tandwiel-slijtage machine
+      description: |
+        Controleert de slijtage van tandwielen met behulp van een radioactief gemaakt tandwiel. 
+        De radioactieve slijtdeeltjes in de olie zijn een maat voor de slijtage
+      credit: bruikleen':' Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: p-6
+      title: Diktemeter
+      description: |
+        Men meet de straling, die het materiaal doorlaat: een vermeerdering van straling wijst dunne plekken aan; een vermindering de dikke plekken.
+      credit: bruikleen':' Baldwin Instrument Company Ltd, Dartford, Kent
+    - id: p-7
+      title: Gammagrafie
+      description: |
+        De harde gammastraling van radioactieve isotopen wordt inplaats van röntgenstraling toegepast om gietstukken, lasnaden enz. te controleren.
+      credit: bruikleen':' Röntgen Technische Dienst, Overschie
+    - id: p-8
+      title: Niveaumeter
+      description: Dwars door de stalen wanden van geheel gesloten tanks geeft de radioactieve straling aan hoe hoog de vloeistof in de tank staat.
+      credit: bruikleen':' Röntgen Technische Dienst, Overschie, Ingenieursbureau Ir. P.J. Plaisier, 's-Gravenhage
+    - id: p-9
+      title: Pijpleiding met tracers
+      description: |
+        Door de pijp-transportleidingen in de aardolie-industrie gaan gewoonlijk achtereenvolgens verschillende producten. 
+        Het beginnen eindpunt van een nieuwe stroom wordt gemarkeerd door toevoeging van een radioactief element.
+      credit: bruikleen':' Koninklijke/Shell - Laboratorium, Amsterdam
+    - id: p-10
+      title: Bestraald en onbestraald polyethyleen
+      description: |
+        De eigenschappen van plastische kunststoffen als polyethyleen, kunnen soms worden verbeterd door radioactieve straling. 
+        De temperatuursbestendigheid neemt daardoor sterk toe.
+      credit: bruikleen':' Centraal Laboratorium TNO, Delft; Tube lnvestments Ltd, Cambridge; ICI, Plastics Division, Londen
+    - id: p-11
+      title: Akker met gewassen
+      description:
+      credit:
+    - id: p-12
+      title: Aardappelplanten, gekweekt op radioactieve kunstmest
+      description: |
+        Door de kunstmest, die men aan de grond toevoegt, met radioactieve atomen te "merken", kan naderhand worden nagegaan hoeveel kunstmest door de plant is opgenomen en waar het in de plant terecht is gekomen.
+        De teller toont in dit geval aan dat superfosfaat kunstmest bijna geheel in de jonge bladeren wordt opgenomen, terwijl de oudere bladeren er biijkbaar geen behoefte aan hebben.
+      credit: | 
+        bruikleen: 
+        Voorlichtingsdienst voor Superfosfaat, Wageningen;
+        tellers: N.V. Philips, Eind hoven
+    - id: p-13
+      title: Gemerkte atomen in plant en dier
+      description: |
+        Dit schema laat zien op welke wijze "gemerkte" atomen het mogelijk maken de weg van voedingsstoffen in plant en dier te volgen.
+      credit: bruikleen':'' United States Information Service, 's-Gravenhage
+    - id: p-14
+      title: Verduurzaming van levensmiddelen
+      description: |
+        Radioactieve bestraling verhoogt de houdbaarheid van levens middelen door het doden van ziektekiemen. 
+        Bestraling verhindert ook het uitlopen van aardappelen en uien.
+      credit: |
+        bruikleen: maquette; High Voltage Engineering Corp., Burlington, U.S.A,
+        aardappelen; Instituut voor Bewaring en Verwerking van Landbouwproducten, Wageningen
+    - id: p-15
+      title: Foto's en monsters
+      description:
+      credit: bruikleen':' United States Information Service, 's-Gravenhage
+    - id: p-16
+      title: Veiligheid = kennis van 't gevaar
+      description: |
+        Geen gevaar is zo nauwkeurig te bepalen als radioactieve straling.
+        Vele soorten gevoelige meetinstrumenten controleren de intensiteit en talloze doelmatige beschermingsmiddelen houden het atoom ........ in toom.
+      credit: |
+        Bruikleen: 
+        N.V. Philips, Eindhoven,
+        N.V. Nenimij, 's-Gravenhage,
+        United States Information Service, 's-Gravenhage
+    - id: p-17
+      title: Deltaplan
+      description: |
+        Hoe verplaatsen zich de zandbanken voor onze kusten?
+        Voor de uitvoering van het Deltaplan en andere waterstaatkundige werken is het van groot belang dit te weten.
+        Door plaatselijk zandachtige zwak-radioactieve stoffen in zee te storten, kan men veel over deze verplaatsingen leren.
+        De maquette toont de proeven die genomen zijn in het Waterloopkundig Laboratorium in de N.O. polder.
+      credit: Inzending met medewerking van Rijkswaterstaat, 's-Gravenhage
+    - id: p-18
+      title: Ouderdomsbepaling
+      description: |
+        Koolstof is een van de belangrijkste "bouwstenen" van alle planten en dieren. In alle koolstof bevinden zich uiterst geringe sporen van het radioactieve isotoop "koolstof-14": een isotoop, dat langzaam door de eeuwen verdwijnt. 
+        Men kan meten hoeveel er nog over is en daarmede de ouderdom van een monster bepalen.
+      credit: bruikleen':' Natuurkundig Laboratorium, Rijksuniversiteit Groningen
+    - id: p-19
+      title: Atoombatterij
+      description: |
+        De straling, die van een langlevend radioactief preparaat (prometheum) uitgaat, wordt door een daarvoor gevoelig kristal in lichtflitsjes omgezet. 
+        Een foto-electrische cel zet de lichtflitsjes weer in electriciteit om.
+        De geleverde stroom is weliswaar zeer gering, maar toch voldoende om een klein radioapparaat te voeden.
+      credit: bruikleen':' Walter Kidde Nuclear Laboratories, Garden City, N.Y.
+    - id: p-20
+      title: Mens in kristalrooster
+      description: |
+        Als men in deze ruimte binnentreedt, bevindt men zich in het inwendige van een kristal van caesiu mchloride, dat zich naar alle kanten tot het oneindige uitstrekt.
+      credit: bruikleen':' Laboratorium voor Mijnbouwkunde, Technische Hogeschool, Delft
 - id: q
   title: Buitenlandse inzendingen (begane grond)
   description: Een tentoonstelling als deze mag niet voorbij gaan aan het vele, dat de atoomenergie-commissies in diverse landen hebben gedaan of op hun programma hebben staan. Daarom zijn de desbetreffende instanties in de Verenigde Staten, Engeland, Frankrijk, België, Noorwegen en Nederland uitgenodigd om in nationale stands op hun eigen wijze een overzicht te geven van de vorderingen op dit gebied in hun landen.
@@ -781,6 +1006,42 @@
     De beheersing van de beweging van electronen in geleiders, halfgeleiders, in gassen en in het luchtledige, heeft geleid tot de ontwikkeling van de electrotechniek en de electronica, van radiobuizen, röntgenbuizen, kathodestraalbuizen, fotocellen en transistoren. 
     Hierdoor werden mogelijk de electronische rekenmachine, zowel als de electronenmicroscoop, het röntgenonderzoek en de televisie, de radio-omroep en de radar, en duizend andere voor de mensheid nuttige toepassingen.
   parts: 
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
+    - id:
+      title:
+      description:
+      credit:
 - id: s
   title: De Keuken van de Toekomst
   description: |
