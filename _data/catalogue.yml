@@ -1006,41 +1006,70 @@
     De beheersing van de beweging van electronen in geleiders, halfgeleiders, in gassen en in het luchtledige, heeft geleid tot de ontwikkeling van de electrotechniek en de electronica, van radiobuizen, röntgenbuizen, kathodestraalbuizen, fotocellen en transistoren. 
     Hierdoor werden mogelijk de electronische rekenmachine, zowel als de electronenmicroscoop, het röntgenonderzoek en de televisie, de radio-omroep en de radar, en duizend andere voor de mensheid nuttige toepassingen.
   parts: 
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
-      credit:
-    - id:
-      title:
-      description:
+    - id: r-1
+      title: Electronische rekenmachine
+      description: |
+        Heeft U wel eens 1 x2 uitgerekend, ook 1x2x3 en 1 x 2 x 3 x 4 enz. tot 1 X 2 X 3 X 4 X S X 6 X 7 x 8 x 9 x 10? Dan heeft U een getal opgeschreven van meer dan drie miljoen! 
+        Had U geprobeerd om uit te rekenen 1 X 2 x 3 x ..... x 98 x 99 x 100, dan had U zeker veel rekenfouten gemaakt, maanden, zo niet jaren, gewerkt en de uitkomst zou een getal zijn geweest van niet minder dan 158 cijfers.
+        Dit zijn nog slechts eenvoudige rekenvoorbeelden. 
+        Wetenschap en techniek vergen thans berekeningen, welke honderden menselijke rekenaars jarenlang zouden bezighouden en de uitkomst zou waarschijnlijk fout zijn: de mens is niet onfeilbaar.
+        De electronische rekenmachine heeft hier uitkomst gebracht; honderden, ja duizenden rekenaars kan hij vervangen en dat nog zonder fouten in de uitkomsten! 
+        Vele ontwikkelingen op kernenergiegebied waren niet mogelijk geweest zonder de electronische rekenmachine, die op zijn beurt weer veel te danken heeft aan de stimulansen, welke hij kreeg uit zijn toepassingsgebieden.
+        Een I.B.M. 650 -rekenmachine wordt in bedrijf getoond. 
+        Thans is dit reeds een kleine en - naar verhouding - langzame rekenmachine, vergeleken met zijn grote broers, maar desondanks een instrument, dat het werk van honderden rekenaars kan overnemen.
+        Ook wordt gedemonstreerd een "Ramac geheugen" voor de 650 miljoenen getallen kunnen hierin worden opgeborgen, maar binnen een seconde kan uit ieder gewenst geheugenvakje het ingeschreven getal worden teruggelezen, resp. er in worden opgetekend.
+        Werkelijke berekeningen zullen worden uitgevoerd met de 650, afgewisseld met demonstraties van de mogelijkheden en met wedstrijden van de machine tegen de mens, waarbij de laatste steeds verliest. 
+        En toch, de mens commandeert de rekenmachine, draagt hem alle details van de berekeningen op, zonder die instructies kan de machine niets.
+      credit: bruikleen':' Internationale Bedrijfsmachine Maatschappij, Amsterdam
+    - id: r-2
+      title: Kosmische straling
+      description: |
+        Kosmische straling komt tot ons uit het heelal, Deze straling, die behoort tot de hardste (meest doordringende), welke wij kennen, heeft belangrijk bijgedragen tot de verdieping van ·onze kennis ten aanzien van de processen, in het bijzonder de kernprocessen, welke in het heelal plaatsvinden. De electronica heeft het meten van kosmische straling mogelijk gemaakt.
+      credit: bruikleen':' teller; N.V. Philips, Eindhoven
+    - id: r-3
+      title: Electronenmicroscoop
+      description: |
+        Het electronenmicroscoop vergroot ca 1000 maal meer dan het beste normale microscoop. 
+        Een wonderwereld van details opende zich toen de eerste van deze instrumenten, kort voor de tweede wereldoorlog, in bedrijf kwamen. 
+        Thans kunnen de medische en andere wetenschappen niet meer buiten dit waardevolle hulpmiddel, dat ook in de techniek reeds vele problemen tot oplossing heeft gebracht
+      credit: bruikleen':' teller; N.V. Philips, Eindhoven
+    - id: r-4
+      title: Radar
+      description: |
+        Prototype van de 3 cm-havenradarinstallaties nn de toegang tot het Noordzeekanaal bij IJmuiden en de Nieuwe Rotterdamse Waterweg.
+        Op het radarscherm wordt de omgeving van de tentoonstelling afgebeeld.
+      credit: bruikleen':' Nederlandsch Radar Proefstation, Noordwijk aan Zee
+    - id: r-5
+      title: Electronen \"Aan-het-werk\"
+      description: |
+        Talloos zijn de nuttige toepassingen van de electronica. 
+        Voorbeelden hiervan worden gedemonstreerd aan de hand van enkele van de voornaamste typen electronenbuizen en foto-electrische cellen.
+        1. De werking van een foto-electrische cel.
+        2. De werking van een electronenbuis met twee electroden (diode) als gelijkrichter van wisselstromen.
+        3. Drie- en meer-electrodenbuizen, geschakeld als versterker van wisselspanningen.
+        4. De electronenbuis als oscillator voor zeer hoge frequenties, waardoor electromagnetische trillingen ontstaan.
+        5. Electronenbuizen als schakelaars. Hierdoor is het mogelijk, schakelhandelingen in de gewenste volgorde en met vooraf instelbare tijdsverschillen automatisch te doen geschieden.
+        6. De transistor als oscillator, detector, versterker en gelijkrichter van hoogfrequente wisselspanningen.
+        7. Electronenbuis als telbuis, welke lichtimpulsen, ontvangen door een foto-electrische cel, telt,
+        8. Kathodestraalbuis voor het zichbaar maken van snelle electrische verschijnselen.
+        9. Gasgevulde twee-electrodenbuis voor het constant houden van electrische spanning (neon stabilisatiebuis).
+      credit: bruikleen':' Nederlandsch Radar Proefstation, Noordwijk aan Zee
+    - id: r-6
+      title: Decca-Navigator
+      description: |
+        De electronica heeft diverse systemen voor plaatsbepaling mogelijk gemaakt. Eén daarvan, de Decca-Navigator, wordt gebruikt te l<1nd, ter zee en in de lucht.
+      credit: bruikleen':' Internationale Navigatie Apparaten N.V., Amsterdam, Rotterdam
+    - id: r-7
+      title: Industriële Televisie
+      description: |
+        Hierbij wordt de televisie-camera door middel van kabels verbonden met één of meer weergavetoestellen. 
+        Op het televisiescherm wordt een gedeelte van de Luchthaven Schiphol getoond.
+      credit: bruikleen':' Pye Ltd, Cambridge
+    - id: r-8
+      title: Röntgenbuis
+      description: |
+        Röntgenstralen hebben in de geneeskunde, in andere wetenschappen en in de techniek belangrijke gebieden geopend voor onderzoek. 
+        De medicus kan ermee door het menselijk lichaam heen zien, de technicus door lasnaden en gietstukken; de wetenschapsman heeft er o.a. de opbouw van atomen en moleculen in kristallen mee kunnen ontwarren
       credit:
 - id: s
   title: De Keuken van de Toekomst
@@ -1085,10 +1114,106 @@
     Zie naar buiten! Zie Schiphol, zie de reusachtige vliegtuigen van thans! De droom van 1903 was geen dwaze fantasie!
     In één generatie maakte de wereld deze sprong. Het is aan ons, de generatie, van 1957, de toekomst van de wereld van morgen te bepalen.
   parts: 
+    - id: w-1
+      title: De mens vliegt
+      description: |
+        Altijd is de mens gefascineerd geweest door de droom zich vrij in het luchtruim te kunnen bewegen. 
+        Sinds de oudste historie zijn ons pogingen bekend om deze droom te verwezenlijken en daarvan worden in deze afdeling enkele voorbeelden getoond.
+        Dit zijn o.a. een Mexicaanse feestballon en de ballon van Montgolfier, Leonardo da Vinci's ontwerpen voor een vliegende mens en natuurgetrouwe copieën van het zweefvliegtuig van Lilienthal en van het eerste, door motorkracht voortbewogen, vliegtuig, waarmee de gebroeders Wright in 1903 erin slaagden los van de grond te komen. 
+        Buiten de hal wordt deze serie voortgezet met de beroemde Fokker F Vila, met welk type vliegtuig in 1927 de eerste retourvlucht naar het toenmalige Nederlands-Indië werd gemaakt, terwijl de bezoeker, als hij de tentoonstelling heeft verlaten, slechts om zich heen behoeft te zien op de Luchthaven Schiphol, om met eigen ogen te ervaren tot welke hoogte de vliegtuigtechniek zich in nauwelijks vijftig jaar heeft ontwikkeld.
+      credit:
+    - id: w-2
+      title: Kunstmaan en planetenstelsel
+      description: |
+        De luchtvaart staat op het punt uit te groeien tot ruimtevaart.
+        Of één der stoutste fantasieën, een reis naar de maan, binnenkort werkelijkheid zal worden, staat nog te bezien. 
+        Zeker is de mens in staat kunstmanen te bouwen en af te schieten, die dan geruime tijd om de aarde kunnen blijven cirkelen. 
+        Wellicht zullen reeds volgend jaar, in het kader van het Internationale Geophysische Jaar, enkele van dergelijke kunstmanen gelanceerd worden.
+        Hoe zo'n kunstmaan eruit ziet, wordt gedemonstreerd aan een model dat te zien is tegen de wijdse achtergrond van het planetenstelsel en de machtige hulpmiddelen, als de radiotelescoop van Dwingelo, welke de astronoom thans ter beschikking heeft.
+      credit:
+    - id: w-3
+      title: Jeugd aan het werk
+      description: |
+        De ontwikkeling van de techniek brengt met zich mee dat op vele plaatsen in de industrie de vraag naar speciaal geschoold personeel toeneemt. 
+        Hoe hieraan, wat betreft de vliegtuigindustrie, op school reeds aandacht wordt geschonken, tonen de leerlingen van de Technische School te Hoofddorp. 
+        Zij demonstreren hun bedrevenheid in het onderhouden en repareren van vliegtuiginstrumenten.
+      credit:
+    - id: w-4
+      title: Poppentheater
+      description: |
+        De duitse geleerde Otto Hahn slaagde er in 1939 in voor het eerst een uraniumkern te splijten. 
+        Welk gevolg dit heeft gehad, wordt op deze tentoonstelling uit de doeken gedaan.
+        Maar hoe reageerde de familie uranium op deze ontdekking? 
+        In het poppenspel "Het Uur U" wordt getracht de "menselijke" kant van dit vraagstuk te benaderen.
+      credit:
 - id: x
   title: De wenteling der tijden
   description:
   parts: 
+    - id: Wand I
+      title: 
+      description: |
+        Zwervend over de aarde, dromend en denkend bij zijn kudden onder het licht van zon, maan en sterren, oefende de primitieve mens zich in de onveranderlijke beginselen van de wetenschap: waarnemen, overdenken, dienstbaar maken.
+        Zon en sterren wezen hem de weg door de eindeloze vlakten; de wisselende schijngestalten der maan werden zijn leidraad door de tijd.
+        De vingers van zijn handen hielpen hem over het primitieve een-twee-veel naar tellen en het tientallig stelsel. 
+        Met kerven in een stok maakte hij zijn eerste rekenoefeningen.
+        Toen aan de Nijl, vijftig eeuwen geleden, een geordende samenleving groeide, was de rijke zwarte aarde niet meer slechts verblijfplaats van een dag of van een seizoen, maar bezit: meetbaar en berekenbaar. 
+        In Egypte ontwikkelden zich meetkunde en driehoeksmeting, waarbij de maten van het menselijk lichaam: duim, handpalm, arm, maateenheden werden, die zich tot heden gehandhaafd hebben.
+      credit:
+    - id: Wand II
+      title:
+      description: |
+        Babylon en Assyrië: eeuwenlang brandpunten van cultuur en tevens handelscentra, die het zonder maat, gewicht en boekhouding niet meer stellen konden. 
+        Kleitabletten met maten en berekeningen, zilveren gewichten in de vorm van dieren en het telraam, getuigen nu in onze musea van hun practische rekenkunst Wiel en katrol deden hun intrede.
+        Veel belangrijker nog dan deze erfenis in steen en metaal was de schat aan wiskunde en sterrenkunde die zij nalieten aan de westerse beschaving.
+        Hun sterrenwichelaars stelden de zonne-ecliptica (dierenriem) vast; hun astrologische belangstelling leidde natuurlijkerwijze tot wiskundige overpeinzingen: zij berekenden reeds het cirkeloppervlak uit omgeschreven en ingeschreven vierkanten.
+        Hun zeevarende buren, de Phoeniciërs, zagen op hun uitgestrekte reizen merkwaardige verschijnselen, die hen reeds deden denken aan de bolvorm der aarde. 
+        De Phoenicische lettertekens werden de basis van ons alphabet.
+        De Griekse wereld: geboorteland der wetenschappen. 
+        Veel was reeds ontdèkt en toegepast, maar de Grieken waren de eerste, die de exacte wetenschappen, wiskunde, natuurkunde, als zelfstandige vakken beoefenden.
+        Onder de oudste Griekse denkers was Pythagoras, die de wetten van het getal terugvond in alle dingen - o.m. in de muziek - en die de stelling van Pythagoras op zijn naam heeft staan.
+        In de "academie" van Plato was wiskunde een onontbeerlijke inleiding tot de wijsbegeerte.
+        Archimedes was een der eersten die op het gebied van wis- en natuurkunde belangrijke ontdekkingen en uitvindingen deed.
+        Tijdens zijn leven was het Romeinse rijk reeds in volle opbloei: het rijk van de mannen van praktijk en daad. 
+        Hun wiskunde was voornamelijk gericht op het bouwen: de constructie van bogen, gewelven en koepels.
+      credit:
+    - id: Wand III
+      title: 
+      description: |
+        De wetenschappelijke en culturele erfenis van Griekenland en het Hellenisme werd niet in zijn geheel rechtstreeks aan onze westeuropese voorouders doorgegeven. 
+        Veel kwam tot ons via de lslamietische wereld, waar, na de ondergang van Rome, de wetenschap tot hoge bloei kwam.
+        Het astrolabium, waarmede de stand van de sterren aan de hemel gemeten werd, is een arabische vinding. 
+        Bij Bagdad verrezen grote astronomische bouwwerken, waarin de loop der hemel lichamen werd opgetekend. 
+        Via de Arabieren kwam het cijferschrift met 10 cijfers, zoals wij dit kennen en dagelijks gebruiken, uit Indië naar Europa. 
+        Nu pas kon de rekenkunde, bevrijd van het moeizaam gezwoeg met Romeinse cijfers, grotere vlucht nemen.
+        De kooplieden uit Oost en West voeren er wel bij.
+        Stormachtig groeide de kennis van de natuur en haar wetten in Europa in de 16e en 17e eeuw. 
+        Copernicus veroorzaakte een omwenteling in het wereldbeeld door niet de aarde, maar de zon in het middelpunt te stellen. 
+        Kepler berekende de banen der planeten.
+        Galileo Galilei, veelzijdig denker en geleerde, staat hier als eerste figuur vooraan in de geschiedenis van de Europese wetenschap.
+        Met zijn leven stond hij In voor de Copernicaanse theorie. 
+        Hij was de eerste die ontdekte dat de Melkweg uit sterren bestaat; hij was de eerste die de wetten van de valbeweging en van de slinger in mathematische vorm uitdrukte en hiermede de grondslag legde én voor de moderne mechanica én voor de empirischmathematische methode.
+      credit:
+    - id: Wand IV
+      title:
+      description: |
+        Groei en expansie~van West-Europa over de gehele wereld.
+        De zeevaart eiste, ter bepaling van de plaats op zee, een uiterst nauwgezette tijdsbepaling. Naar aanleiding van een prijsvraag van de Britse admiraliteit ontwikkelde Harrissen zijn chronometer: een wonderwerk van vindingrijkheid en precisie.
+        De empirisch-mathematische methode werd op veel gebieden toegepast: o.m. de baan van een projectiel werd wiskundig geformuleerd.
+        Strenge wetmatigheid in de gehele natuur: op aarde en in het heelal. 
+        Sir Isaac Newton formuleerde de wet van de zwaartekracht, geldend voor een vallende waterdroppel én voor de loop van aarde, maan en planeten. 
+        Overal reikte zijn universele belangstelling: spiegeltelescoop, theorie van het licht, kleurenspectrum, wis kunde, mechanica, sterrenkunde.
+        Hij ontwikkelde de grondbeginselen van de grafische voorstelling in de wiskunde en van de differentiaal- en integraalrekening: onmisbare algebraïsche hulpmiddelen van de moderne wetenschap.
+        Meten - tellen -rekenen: grondslagen, niet alleen van de wetenschap van nu, maar, van de gehele moderne samenleving: handel, techniek en industrie.
+        De electronische rekenmachine is een voorbeeld van het moderne samenspel tussen wetenschap en techniek. Het matrix-geheugen, de gecompliceerde schakel-elementen zijn topprestaties van vindingrijkheid en technisch kunnen. 
+        Het beeld op de kathodestraaloscillograaf onthult ons veel van de geheimen der electromagnetische golven.
+        De wenteling der tijden staat niet stil. 
+        Einstein's formule E= mc2 onthulde in mathematische vorm het diepste verband tussen stof en energie en opende de poort tot nieuwe wetenschappelijke en technische veroveringen.
+        De zon was het punt van uitgang van deze "wenteling der tijden"; de fusie-reactie voert ons naar deze oerbron van energie terug.
+        Reeds vele jaren geleden werd door astronomen onderkend, dat de fusie-reactie de bron van de onmetelijke zonne-energie is.
+        In het licht van de allerjongste ontwikkelingen der kernphysica lijkt de mogelijkheid van een beteugelde fusie-reactie niet ver meer af.
+        Als deze mogelijkheid werkelijkheid wordt, staan de mensheid onbegrensde hoeveelheden energie ter beschikking; de wenteling der tijden neemt dan nieuwe vaart!
+      credit:
 - id: y
   title: Bioscoop- en lezingenzaal
   description:
